@@ -44,3 +44,10 @@ main p {
 .photos  {
   text-align:right;
 }
+main a {
+ text-decoration:none;
+ border-radius: 10px;
+ border:1px solid DarkMagenta;
+ padding:3px;
+ background:Violet; 
+}
