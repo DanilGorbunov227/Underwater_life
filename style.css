@@ -38,12 +38,3 @@ main p {
   background:DeepSkyBlue;
   border-radius:25px;
 }
-
-main a {
- text-decoration:none;
- border-radius: 10px;
- border:1px solid DarkMagenta;
- padding:5px;
- background:Violet;
- font-size:31px; 
-}
