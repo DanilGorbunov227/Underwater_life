@@ -41,7 +41,7 @@ main p {
 .photo {
   text-align:left;
 }
-.photos  {
+.photos {
   text-align:right;
 }
 main a {
@@ -50,4 +50,8 @@ main a {
  border:1px solid DarkMagenta;
  padding:3px;
  background:Violet; 
+}
+.color {
+  border:1px solid white;
+  background:white;
 }
