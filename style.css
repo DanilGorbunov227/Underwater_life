@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+header {
+  background:SkyBlue;
+  font-size:20px;
+}
+header img {
+  width:70px;
+  height:70px;
+}
+header a {
+ text-decoration:none;
+ border-radius: 10px;
+ border:1px solid black;
+ padding:3px;
+ background:white;
+}
+h1 {
+  font-size:50px;
+  color:SlateBlue
+}
+h2 {
+  font-size:40px;
+}
+main img {
+  width:500px;
+  height:350px;
+}
+footer {
+  background:SkyBlue;
+  font-size:20px;
+}
+main p {
+  font-size:27px;
+  border:2px solid MediumBlue;
+  background:DeepSkyBlue;
+  border-radius:25px;
+}
+.photo {
+  text-align:left;
+}
+.photos  {
+  text-align:right;
+}
