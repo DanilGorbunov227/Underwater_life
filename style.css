@@ -25,8 +25,8 @@ h2 {
   font-size:40px;
 }
 main img {
-  width:500px;
-  height:350px;
+  width:450px;
+  height:300px;
 }
 footer {
   background:SkyBlue;
@@ -38,20 +38,11 @@ main p {
   background:DeepSkyBlue;
   border-radius:25px;
 }
-.photo {
-  text-align:left;
-}
-.photos {
-  text-align:right;
-}
+
 main a {
  text-decoration:none;
  border-radius: 10px;
  border:1px solid DarkMagenta;
  padding:3px;
  background:Violet; 
-}
-.color {
-  border:1px solid white;
-  background:white;
 }
