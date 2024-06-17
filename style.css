@@ -1,9 +1,9 @@
 body {
   font-family: arial;
   text-align: center;
+  backgrround:skyblue;
 }
 header {
-  background:SkyBlue;
   font-size:20px;
 }
 header img {
@@ -11,15 +11,11 @@ header img {
   height:70px;
 }
 header a {
- text-decoration:none;
- border-radius: 10px;
- border:1px solid black;
  padding:3px;
- background:white;
 }
 h1 {
   font-size:50px;
-  color:SlateBlue
+  color:SlateBlue;
 }
 h2 {
   font-size:40px;
@@ -35,7 +31,6 @@ footer {
 main p {
   font-size:27px;
   border:2px solid MediumBlue;
-  background:DeepSkyBlue;
   border-radius:25px;
 }
 main a {
