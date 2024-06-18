@@ -4,7 +4,7 @@ body {
 }
 header {
   font-size:20px;
-  backgrround:SkyBlue;
+  background:SkyBlue;
 }
 header img {
   width:70px;
@@ -38,11 +38,16 @@ main p {
   border-radius:25px;
   background:DeepSkyBlue;
 }
-main a {
+footer a {
  text-decoration:none;
  border-radius: 10px;
  border:1px solid DarkMagenta;
  padding:5px;
  background:Violet;
- font-size:31px; 
+ font-size:27px; 
+ text-align:right;
 }
+footer p {
+  text-align:left;
+}
+
