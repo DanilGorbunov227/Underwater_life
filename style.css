@@ -38,16 +38,12 @@ main p {
   border-radius:25px;
   background:DeepSkyBlue;
 }
-footer a {
+main a {
  text-decoration:none;
  border-radius: 10px;
  border:1px solid DarkMagenta;
  padding:5px;
  background:Violet;
- font-size:27px; 
- text-align:right;
-}
-footer p {
-  text-align:left;
+ font-size:31px; 
 }
 
