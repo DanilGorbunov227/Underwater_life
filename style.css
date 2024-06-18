@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   text-align: center;
-  background: Moccasin;
+  background: Khaki;
 }
 header {
   font-size:20px;
@@ -28,6 +28,7 @@ h2 {
 main img {
   width:450px;
   height:300px;
+  border-radius:20px;
 }
 footer {
   background:SkyBlue;
@@ -41,10 +42,10 @@ main p {
 }
 main a {
  text-decoration:none;
- border-radius: 10px;
- border:1px solid DarkMagenta;
+ border-radius: 40px;
+ border:1px solid MediumSpringGreen;
  padding:5px;
- background:Violet;
+ background: PaleGreen;
  font-size:31px; 
 }
 
