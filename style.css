@@ -5,7 +5,7 @@ body {
 }
 header {
   font-size:20px;
-  background:white;
+  background:LightSalmon;
 }
 header img {
   width:70px;
@@ -31,7 +31,7 @@ main img {
   border-radius:20px;
 }
 footer {
-  background: white;
+  background: LightSalmon;
   font-size:20px;
 }
 main p {
