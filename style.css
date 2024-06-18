@@ -1,10 +1,10 @@
 body {
   font-family: arial;
   text-align: center;
-  backgrround:skyblue;
 }
 header {
   font-size:20px;
+  backgrround:skyblue;
 }
 header img {
   width:70px;
@@ -12,6 +12,10 @@ header img {
 }
 header a {
  padding:3px;
+ text-decoration:none;
+ border-radius: 10px;
+ border:1px solid black;
+ background:white;
 }
 h1 {
   font-size:50px;
@@ -32,6 +36,7 @@ main p {
   font-size:27px;
   border:2px solid MediumBlue;
   border-radius:25px;
+  background:DeepSkyBlue;
 }
 main a {
  text-decoration:none;
